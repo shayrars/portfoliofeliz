@@ -1,0 +1,28 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color: #4b4b4b;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+    position: relative;
+}
+
+.action::after {
+    content: "";
+    position: absolute;
+    background-color: #72CAFD;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+
+.action:hover {
+    color: black;
+}
+
+.action:hover::after {
+    width: 100%;
+}

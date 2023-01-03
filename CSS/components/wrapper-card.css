@@ -1,0 +1,8 @@
+.wrapper-card {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper-card .box1:nth-child(odd) {
+    margin-right: 100px;
+}

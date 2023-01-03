@@ -11,3 +11,7 @@
     padding-top: 110px;
     padding-bottom: 110px;
 }
+
+.box1 .link-card {
+    text-decoration: none;
+}

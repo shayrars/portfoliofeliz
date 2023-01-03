@@ -3,6 +3,6 @@
     justify-content: center;
 }
 
-.wrapper-card .box1:nth-child(odd) {
+.wrapper-card .card-box1:nth-child(odd) {
     margin-right: 100px;
 }

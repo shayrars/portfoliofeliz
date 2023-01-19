@@ -5,3 +5,8 @@
     background-color: #BDE5FC;  
     padding: 10px 100px;  
 }
+
+.main-header .detail {
+    color: #72CAFD;
+    font-weight: bolder;
+}

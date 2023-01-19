@@ -2,6 +2,7 @@
     background-color: #72CAFD;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.062);
     width: 280px;
+
 }
 
 .card-box1 .title-card {
@@ -16,4 +17,6 @@
     text-decoration: none;
 }
 
-
+.card-box1:hover {
+    transform: scale(1.08);
+}

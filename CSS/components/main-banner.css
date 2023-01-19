@@ -1,15 +1,18 @@
 .main-banner {
+    display: flex;
+    justify-content: space-evenly;
     box-sizing: border-box;
     background-image: linear-gradient(#BDE5FC, white);
-    height: 700px;
-    padding-top: 200px;
-    padding-left: 100px;
+    height: 730px;
+    padding-top: 30px;
+        
 }
 
 .main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 460px;
+    padding-top: 200px;
 }
 
 .main-banner .main-box {
@@ -21,3 +24,4 @@
     display: flex;
     justify-content: space-around;
 }
+

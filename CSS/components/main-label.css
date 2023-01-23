@@ -1,10 +1,9 @@
 form {
     background-image: linear-gradient(to top, #BDE5FC, white);
-
 }
 
 .main-label {
     color: #4b4b4b;
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 25px;
+    line-height: 30px;
 }
